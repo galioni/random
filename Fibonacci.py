@@ -9,7 +9,7 @@ def fib(n):
     return sum
 
 i = 0
-total = 9
+total = 20
 
 while i <= total :
     print(fib(i))
